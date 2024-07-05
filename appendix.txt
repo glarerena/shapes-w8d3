@@ -1,0 +1,10 @@
+Now that we are creating our own repos on github, I am trying to remember to do a appendix on each assignment.
+As a sort of refelction for myself, so I can go back review, and see my growth.
+Also to share my experiences with the learning process.
+I learned about constructor chaining, and used this with the classes, since I still feel uncomfortable using the superclass.
+
+I did have to use ChatGPT to help me with the absbtractmethod, as we did not review this in class.
+I am able to write the classes, attributes, and methods all without any help or references. 
+I still need a better understanding of its hierachy of this whole assignment.
+I understand the superclass, and children. Or the parent class and its children. 
+
